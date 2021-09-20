@@ -9,3 +9,7 @@ I'm a student in System & Network management, I love to game, read and program!
 
 - 🔭 I’m currently not working on anything.
 - 🌱 I’m currently learning Java, Python and C#.
+
+
+
+[spotify]: https://open.spotify.com/user/j30qnmg0yzfqk3fldt9717fvx?si=58afb19d92df443e
